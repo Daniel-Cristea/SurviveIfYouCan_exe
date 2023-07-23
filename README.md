@@ -10,8 +10,8 @@ Survive if you can is a 3D shooter game where the objective is to kill as many e
 
 ## Game Controls
 
-Moving: <kbd>W<kbd>, <kbd>A<kbd>, <kbd>S<kbd> and <kbd>D<kbd>
-Fast moving: <kbd>W<kbd> and <kbd>Left-Shift<kbd>
-Shooting: left click
-Reloading <kbd>R<kbd>
-Pause game: <kbd>Esc<kbd>
+- Moving: <kbd>W<kbd>, <kbd>A<kbd>, <kbd>S<kbd> and <kbd>D<kbd>
+- Fast moving: <kbd>W<kbd> and <kbd>Left-Shift<kbd>
+- Shooting: left click
+- Reloading <kbd>R<kbd>
+- Pause game: <kbd>Esc<kbd>
