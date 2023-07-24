@@ -4,7 +4,7 @@ Survive if you can is a 3D shooter game where the objective is to kill as many e
 
 ## Download
 
-1. Download the game from this link: https://github.com/Daniel-Cristea/SurviveIfYouCan_exe.git
+1. Download this repository
 2. Double click on: Survive If You Can.exe
 3. Have fun
 
